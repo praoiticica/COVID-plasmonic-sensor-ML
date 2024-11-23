@@ -9,7 +9,7 @@ In this work, we developed a plasmonic immunosensor with a plasmonic substrate c
 
 We included in this repository:
 
-* A link for the optical microscopy images of the plasmonic sensors before and after the detection tests analyzed in this work. The original optical microscopy images can be downloaded at: (we will add a link soon...)
+* A link for the optical microscopy images of the plasmonic sensors before and after the detection tests analyzed in this work. The original optical microscopy images can be downloaded at: [image dataset](https://drive.google.com/drive/folders/1sB3stEALITgml_QzeLOjtAJEfh7Wyp1C?usp=sharing)
 
 * The results of the features extraction step using the handcrafted algorithms and CNN architectures (pre-trained in ImageNet) configured as features extractors.
 
