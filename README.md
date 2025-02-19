@@ -39,7 +39,7 @@ Oiticica, Pedro R. A. and Angelim, Monara K. S. C. and Soares, Juliana C. and So
 
 ```
 @article{doi:10.1021/acssensors.4c03451,
-author = {Oiticica, Pedro R. A. and Angelim, Monara K. S. C. and Soares, Juliana C. and Soares, Andrey C. and Proen{\c{c}}a-Módena, Jos{\'e} L. and Bruno, Odemir M. and Oliveira, Osvaldo N. Jr.},
+author = {Oiticica, Pedro R. A. and Angelim, Monara K. S. C. and Soares, Juliana C. and Soares, Andrey C. and Proen{\c{c}}a-Módena, Jos{\'e} L. and Bruno, Odemir M. and Oliveira Jr., Osvaldo N.},
 title = {Using Machine Learning and Optical Microscopy Image Analysis of Immunosensors Made on Plasmonic Substrates: Application to Detect the SARS-CoV-2 Virus},
 journal = {ACS Sensors},
 volume = {0},
